@@ -16,3 +16,11 @@ Your careers are saved on your own device. A new release never changes the versi
 ## Releases
 
 Each release is a fixed version. The newest is always under [Releases](../../releases/latest).
+
+## Bugs and feedback
+
+In the game: **Options → 🐞 Report a bug** (or the link at the bottom of the start screen). It opens an email with your version filled in.
+
+---
+
+© 2026 RecisipGG. All rights reserved. You may download and play the game; copying, changing or redistributing it is not allowed.
